@@ -1,7 +1,7 @@
 def stock_picker(arr)
   buying_day = []
   selling_day = []
-  best_days = []
+  # best_days = []
   for i in arr 
     if i < i + 1
       buying_day.push(i)
