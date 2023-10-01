@@ -15,3 +15,8 @@ def stock_picker(prices)
 end
 
 puts stock_picker([1,3,6,9,15,8,6,1,10])
+puts stock_picker([6,9,8,6,1,10])
+puts stock_picker([1,3,6,9])
+puts stock_picker([1,3,8,6,1,10])
+puts stock_picker([6,9,15,8,6,1,10])
+
